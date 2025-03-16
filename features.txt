@@ -1,0 +1,46 @@
+touchdowns
+	pass
+	rush 
+	total
+rushing
+	avg yards
+	attempts
+	yards
+receiving
+	receptions 
+	avg_yards
+	yards
+punts
+	attempts
+	avg_yards
+punt_returns
+	avg_net_yards
+penalties
+	penalties
+passing
+	attempts
+	completions
+	interceptions
+	avg_yards
+	poor_throws
+	defended passes
+kickoffs
+	return_yards
+kick_returns
+	avg_yards
+	touchdowns
+interceptions
+	interceptions
+int_return
+	avg_yards
+fumbles
+	fumbles
+field goals
+	attempts
+	made
+	avg_yards
+defense
+	tackles
+	assists
+	qb_hits
+	
